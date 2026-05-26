@@ -25,8 +25,6 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-
 ```typescript
 ╔══════════════════════════════════════╗
 ║          SYSTEM INITIALIZED          ║
@@ -52,7 +50,9 @@ const engineer = {
 };
 ```
 
-<br clear="right"/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+</div>
 
 ---
 
