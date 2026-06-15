@@ -42,8 +42,7 @@
 const engineer: Engineer = {
   name:    "Abishek Paudel",
   role:    "Backend Engineer",
-  company: "SWIFT Technology",
-  base:    "Kathmandu, Nepal 🇳🇵",
+  base:    "Kathmandu, Nepal",
 
   focus: [
     "Distributed Systems",
