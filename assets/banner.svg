@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" fill="none" role="img" aria-label="Abishek Paudel — Backend Engineer, Distributed Systems, Cloud-Native">
+  <defs>
+    <!-- name gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#0a4fff"/>
+    </linearGradient>
+
+    <!-- central glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="42%" r="60%">
+      <stop offset="0%"   stop-color="#00d9ff" stop-opacity="0.20"/>
+      <stop offset="55%"  stop-color="#0a4fff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- scan line gradient -->
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00d9ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- dot grid -->
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#1b2735"/>
+    </pattern>
+
+    <!-- soft glow for the name -->
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#00d9ff" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <rect width="1200" height="320" fill="url(#dots)" opacity="0.6"/>
+
+  <!-- pulsing central glow -->
+  <rect width="1200" height="320" fill="url(#centerGlow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- moving scan line -->
+  <rect x="0" width="1200" height="2" fill="url(#scanGrad)" opacity="0.5">
+    <animate attributeName="y" values="-4;324;-4" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#00d9ff" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.8">
+    <path d="M 30 64 L 30 30 L 64 30"/>
+    <path d="M 1136 30 L 1170 30 L 1170 64"/>
+    <path d="M 30 256 L 30 290 L 64 290"/>
+    <path d="M 1136 290 L 1170 290 L 1170 256"/>
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- prompt accent -->
+  <text x="600" y="92" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="15" letter-spacing="6" fill="#00d9ff" opacity="0.75">&#9656; ~/abishek-paudel</text>
+
+  <!-- name -->
+  <text x="600" y="178" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="2" fill="url(#nameGrad)" filter="url(#glow)">Abishek Paudel</text>
+
+  <!-- animated underline -->
+  <line x1="430" y1="200" x2="770" y2="200" stroke="#00d9ff" stroke-width="2" stroke-linecap="round" stroke-dasharray="340" stroke-dashoffset="340" opacity="0.85">
+    <animate attributeName="stroke-dashoffset" from="340" to="0" dur="1.4s" begin="0.3s" fill="freeze"/>
+  </line>
+
+  <!-- subtitle -->
+  <text x="600" y="236" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="17" letter-spacing="4.5" fill="#8b9bb0">BACKEND  ENGINEER&#160;&#160;&#183;&#160;&#160;DISTRIBUTED  SYSTEMS&#160;&#160;&#183;&#160;&#160;CLOUD&#8209;NATIVE</text>
+
+  <!-- live status -->
+  <g transform="translate(432,272)" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" letter-spacing="3">
+    <circle cx="0" cy="-4" r="4.5" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="16" y="0" fill="#3fb950">ONLINE</text>
+    <text x="92" y="0" fill="#586274">&#183;</text>
+    <text x="116" y="0" fill="#7d8ea3">OPEN TO COLLABORATE &#8594; true</text>
+  </g>
+</svg>

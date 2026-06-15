@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ════════════════════════ HERO ════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abishek%20Paudel&fontSize=72&color=0:00d9ff,100:0a4fff&fontColor=ffffff&stroke=00d9ff&strokeWidth=1&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud-Native&descSize=17&descAlignY=68&animation=twinkling&fontAlignY=42" alt="Abishek Paudel — Backend Engineer" />
+<!-- Custom animated banner. Commit /assets/banner.svg to your repo, then this renders. -->
+<img width="100%" src="https://raw.githubusercontent.com/abishekpaudel/abishekpaudel/main/assets/banner.svg" alt="Abishek Paudel — Backend Engineer · Distributed Systems · Cloud-Native" />
 
 <!-- ════════════════════════ TYPING ════════════════════════ -->
 <a href="https://github.com/abishekpaudel">
