@@ -2,7 +2,7 @@
 
 <!-- ════════════════════════ HERO ════════════════════════ -->
 <!-- Custom animated banner. Commit /assets/banner.svg to your repo, then this renders. -->
-<img width="100%" src="https://raw.githubusercontent.com/abishekpaudel/abishekpaudel/assets/banner.svg" alt="Abishek Paudel — Backend Engineer · Distributed Systems · Cloud-Native" />
+<img width="100%" src="https://raw.githubusercontent.com/abishekpaudel/abishekpaudel/master/assets/banner.svg" alt="Abishek Paudel — Backend Engineer · Distributed Systems · Cloud-Native" />
 
 <!-- ════════════════════════ TYPING ════════════════════════ -->
 <a href="https://github.com/abishekpaudel">
