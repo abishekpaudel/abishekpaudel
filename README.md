@@ -1,131 +1,53 @@
-<div align="center">
+# Abishek Paudel
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:2563EB&height=210&section=header&text=Abishek%20Paudel&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Software%20Engineer%20%C2%B7%20Distributed%20Systems&descSize=19&descAlignY=57&animation=fadeIn" alt="Abishek Paudel, Backend Software Engineer" />
+**Backend Software Engineer | Node.js · APIs · Microservices · Fintech**
 
-<a href="https://github.com/abishekpaudel">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=High-performance+APIs+and+microservices;Event-driven+systems+with+RabbitMQ+and+Redis;PostgreSQL+design+and+query+optimization;Master's+student+in+Software+Engineering+at+MUN" alt="What I do" />
-</a>
+📍 St. John’s, Newfoundland and Labrador, Canada · 🎓 Graduate student, Memorial University of Newfoundland
 
-<br/>
+**Open to paid part-time backend engineering, API integration, QA automation, and developer-support opportunities (up to 24 hours/week during academic terms).** Available for on-site/hybrid work in the St. John’s–Mount Pearl area and remote opportunities across Canada.
 
-<a href="https://www.linkedin.com/in/abishek-paudel-72a43b1b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abishekpaudel56@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/St.%20John's%2C%20Canada-0B1220?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+[Portfolio](https://abishekpaudel.com.np) · [LinkedIn](https://www.linkedin.com/in/abishekpaudel/) · [Email](mailto:abishekpaudel56@gmail.com)
 
-</div>
+## What I bring to a team
 
-<br/>
+I have **3.5 years of full-time professional backend engineering experience (January 2023–July 2026)** with Swift Technology (IME Group) in Nepal. I worked on production banking platforms used by multiple financial institutions. My work included building services from scratch, integrating APIs and payment systems, diagnosing incidents, and supporting deployments.
 
-## About Me
+- **Backend delivery:** Node.js / Express, JavaScript / TypeScript, REST and gRPC APIs, event-driven services and authentication.
+- **Databases and messaging:** MySQL, MongoDB, Redis, RabbitMQ, Neo4j and Elasticsearch.
+- **Operations:** Docker, Kubernetes, Jenkins CI/CD, Nginx, Linux, deployment troubleshooting and production support.
+- **Financial systems:** Corporate banking workflows, multi-level transaction approvals, payment integrations, KYC, and customer-facing service reliability.
 
-I am a backend software engineer and a Master's student in Software Engineering at Memorial University of Newfoundland. Before moving to Canada, I spent five years at SWIFT Technology, growing from intern to full-time Software Engineer and building production backends used every day.
+I enjoy taking ownership of a well-defined problem: understanding it, designing a maintainable solution, implementing it, testing it and keeping it running.
 
-I care about systems that stay correct and available under load: well-designed APIs, reliable messaging, fast queries, and failures that are handled instead of hidden.
+## Professional work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Swift Technology (IME Group) — Software Engineer (Backend) | Jan 2023–Jul 2026**
 
-**Currently**
+- Contributed to **FastBanking**, an omnichannel banking platform used in production at multiple banks, including Global IME Bank.
+- Designed and implemented backend services for **Global Biznex**, including bulk fund transfers, payroll disbursement, bill payments and multi-level approvals.
+- Built a personal finance management module for transaction categorization and budgeting, plus integrations with payment and partner systems.
+- Supported deployment automation, incident diagnosis, and a production server migration with zero data loss.
 
-- Master's student, Software Engineering, Memorial University of Newfoundland
-- Studying distributed systems and software architecture
-- Exploring Kubernetes, event sourcing, and CQRS
+*These are professional contributions to proprietary banking products. Their source code is not published here.*
 
-</td>
-<td width="50%" valign="top">
+## Selected public projects
 
-**Open to**
+| Project | What it demonstrates |
+| --- | --- |
+| [Balance Humanity — backend](https://github.com/abishekpaudel/backend-balance-humanity) | Node.js/Express API work for a disaster-aid fintech capstone, with database, object-storage and authentication dependencies. |
+| [JWT Authentication & Authorization](https://github.com/abishekpaudel/JWT-Authentication-Authorization-using-Sequelize) | An Express, JWT, MySQL and Sequelize authentication example. |
+| [Real-Time Chat Server](https://github.com/abishekpaudel/Real-time-quick-chat--server-socket.io) | Real-time messaging with Node.js, Express and Socket.IO. |
+| [Neo4j REST API](https://github.com/abishekpaudel/Neo4j-rest-api-Node-express) | Node.js API development with a graph database using the Neo4j driver. |
 
-- Internships and co-op placements
-- Full-time backend engineering roles
-- Open-source collaboration and system design discussions
+These public repositories include earlier learning and capstone work; they are **not** presented as the codebases of the commercial banking systems above.
 
-</td>
-</tr>
-</table>
+## Education
 
-## Career Timeline
+- **Memorial University of Newfoundland**, graduate studies in Software Engineering, St. John’s, Canada (2026–expected 2028).
+- **Tribhuvan University**, BSc in Computer Science and Information Technology (2019–2023).
 
-| Period | Role | Organization |
-| :--- | :--- | :--- |
-| **Sep 2026 – Present** | Master's Student, Software Engineering | Memorial University of Newfoundland, Canada |
-| **Jan 2023 – Jul 2026** | Software Engineer (full-time) | SWIFT Technology, Nepal |
-| **2022 – 2023** | Trainee Software Engineer (part-time) | SWIFT Technology, Nepal |
-| **2021** | Software Engineering Intern (part-time) | SWIFT Technology, Nepal |
+## Let's work together
 
-## Tech Stack
+If you need a dependable engineer to build an API, improve a backend service, integrate systems, debug production issues, write tests or support deployments, I would welcome a conversation about a **part-time or well-scoped contract opportunity**.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,cpp,express,postgres,redis,rabbitmq,docker,nginx,linux,git&perline=6" alt="Tech stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
-<img src="https://img.shields.io/badge/REST%20API-1E3A8A?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/WebSockets-0B1220?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-
-</div>
-
-## How I Design Systems
-
-```mermaid
-flowchart LR
-    C[Clients] --> N[Nginx<br/>Load Balancer]
-    N --> A[API Service<br/>REST · Node.js]
-    A -- gRPC --> S1[Domain Service]
-    A -- gRPC --> S2[Domain Service]
-    A --> R[(Redis<br/>Cache)]
-    S1 --> P[(PostgreSQL)]
-    S2 --> P
-    S1 -- publish --> Q{{RabbitMQ}}
-    Q --> W[Async Workers]
-    Q -. failed .-> D[Dead-Letter Queue]
-    W --> P
-```
-
-| Principle | In practice |
-| :--- | :--- |
-| **Resilience** | Circuit breakers, retries with backoff, graceful degradation, health checks |
-| **Scalability** | Stateless services, horizontal scaling, load balancing, connection pooling |
-| **Performance** | Redis caching, query optimization, strategic indexing, async processing |
-| **Messaging** | Pub/sub, dead-letter queues, idempotent consumers |
-| **Observability** | Structured logging, metrics, tracing, alerting |
-
-## Featured Projects
-
-<!-- TODO: Replace with 2-3 real projects and pin the same repos on your profile.
-     For each: what it does, the hard problem, and one measured result. -->
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Project name](https://github.com/abishekpaudel/REPO)** | What it does, the hardest problem you solved, and one measured result. | `TypeScript` `PostgreSQL` `RabbitMQ` |
-| **[Project name](https://github.com/abishekpaudel/REPO)** | What it does, the hardest problem you solved, and one measured result. | `Node.js` `gRPC` `Redis` |
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abishekpaudel&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6&ring_color=3B82F6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekpaudel&layout=compact&langs_count=6&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=CBD5E1" alt="Top languages" />
-
-<br/>
-
-<img width="62%" src="https://streak-stats.demolab.com?user=abishekpaudel&hide_border=true&background=0B1220&stroke=1E3A8A&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=64748B" alt="GitHub streak" />
-
-</div>
-
-## Get in Touch
-
-<div align="center">
-
-I am always glad to talk about backend engineering, system design, or a role where I can contribute.
-
-<a href="https://www.linkedin.com/in/abishek-paudel-72a43b1b2/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:abishekpaudel56@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:2563EB&height=110&section=footer" alt="" />
-
-</div>
+**Contact:** [abishekpaudel56@gmail.com](mailto:abishekpaudel56@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abishekpaudel/) · [Portfolio](https://abishekpaudel.com.np)
